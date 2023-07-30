@@ -1,0 +1,4 @@
+Total data: 11783692 bytes 
+Total time taken: 1.5149667263031006 seconds
+Video Data Rate: 7778185.352463264 bytes/second
+RTP Packet Loss Rate: 0.0
